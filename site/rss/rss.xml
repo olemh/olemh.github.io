@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://rss.cnn.com/~d/styles/itemcontent.css"?>
+<rss
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+		<title>
+			<![CDATA[CNN.com - RSS Channel - World]]>
+		</title>
+		<description>
+			<![CDATA[CNN.com delivers up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and more.]]>
+		</description>
+		<link>http://www.cnn.com/world/index.html</link>
+		<image>
+			<url>http://i2.cdn.turner.com/cnn/2015/images/09/24/cnn.digital.png</url>
+			<title>CNN.com - RSS Channel - World</title>
+			<link>http://www.cnn.com/world/index.html</link>
+		</image>
+		<generator>coredev-bumblebee</generator>
+		<lastBuildDate>Wed, 26 Oct 2016 02:16:25 GMT</lastBuildDate>
+		<pubDate>Tue, 25 Oct 2016 15:10:54 GMT</pubDate>
+		<copyright>
+			<![CDATA[Copyright (c) 2016 Turner Broadcasting System, Inc. All Rights Reserved.]]>
+		</copyright>
+		<language>
+			<![CDATA[en-US]]>
+		</language>
+		<ttl>10</ttl>
+		<atom10:link
+			xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://rss.cnn.com/rss/edition_world" />
+			<feedburner:info uri="rss/edition_world" />
+			<atom10:link
+				xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" />
+				<item>
+					<title>
+						<![CDATA[The Christian refugees who can never return to Mosul]]>
+					</title>
+					<description>Anne Danyale can never go back to Mosul.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/poKvBQq908Q" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/poKvBQq908Q/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/25/middleeast/mosul-iraq-christians-isis/index.html</guid>
+					<pubDate>Tue, 25 Oct 2016 16:43:48 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021123604-03-mosul-christian-refugees-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021123604-03-mosul-christian-refugees-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021123604-03-mosul-christian-refugees-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021123604-03-mosul-christian-refugees-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021123604-03-mosul-christian-refugees-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021123604-03-mosul-christian-refugees-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021123604-03-mosul-christian-refugees-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021123604-03-mosul-christian-refugees-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021123604-03-mosul-christian-refugees-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021123604-03-mosul-christian-refugees-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021123604-03-mosul-christian-refugees-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/25/middleeast/mosul-iraq-christians-isis/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Military strategies in the fight for Mosul]]>
+					</title>
+					<description>The military operation to retake Mosul from ISIS continues, but what are the strategies used on both sides? CNN's Fred Pleitgen breaks it down.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/EQU_BihL3cQ" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/EQU_BihL3cQ/mosul-battle-strategies-sdg-orig.cnn</link>
+					<guid isPermaLink="false">http://www.cnn.com/videos/world/2016/10/25/mosul-battle-strategies-sdg-orig.cnn</guid>
+					<pubDate>Tue, 25 Oct 2016 11:00:03 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025115704-mosul-battle-tank-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025115704-mosul-battle-tank-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025115704-mosul-battle-tank-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025115704-mosul-battle-tank-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025115704-mosul-battle-tank-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025115704-mosul-battle-tank-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025115704-mosul-battle-tank-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025115704-mosul-battle-tank-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025115704-mosul-battle-tank-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025115704-mosul-battle-tank-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025115704-mosul-battle-tank-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/videos/world/2016/10/25/mosul-battle-strategies-sdg-orig.cnn</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Mosul offensive enters second week: All you need to know]]>
+					</title>
+					<description>The terrifying scene has played out time and again. Amid a chaotic battlefield, an unknown vehicle barrels across the Nineveh plains, kicking up clouds of dust in its wake. It's speeding toward Iraqi or Kurdish Peshmerga front lines with a cargo of high explosives. Soldiers fire rockets and missiles in a frantic effort to destroy the vehicle before it kills them. Sometimes they find their target; sometimes not.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/mSHu9ASD7K8" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/mSHu9ASD7K8/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/25/middleeast/mosul-offensive-one-week-in/index.html</guid>
+					<pubDate>Tue, 25 Oct 2016 07:11:20 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024172252-16-mosul-week-one-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024172252-16-mosul-week-one-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024172252-16-mosul-week-one-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024172252-16-mosul-week-one-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024172252-16-mosul-week-one-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024172252-16-mosul-week-one-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024172252-16-mosul-week-one-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024172252-16-mosul-week-one-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024172252-16-mosul-week-one-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024172252-16-mosul-week-one-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024172252-16-mosul-week-one-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/25/middleeast/mosul-offensive-one-week-in/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Defusing ISIS bombs with bare hands and little else]]>
+					</title>
+					<description>Along a dusty village track just 20 kilometers (12 miles) from Mosul, a Peshmerga pick up truck leads us to a small house. We drive slowly, and in single file. There are hidden dangers all around.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/uDhSRpT1yEg" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/uDhSRpT1yEg/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/23/middleeast/mosul-offensive-isis-bombs/index.html</guid>
+					<pubDate>Sun, 23 Oct 2016 06:48:26 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021145251-02-defusing-isis-bombs-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021145251-02-defusing-isis-bombs-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021145251-02-defusing-isis-bombs-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021145251-02-defusing-isis-bombs-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021145251-02-defusing-isis-bombs-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021145251-02-defusing-isis-bombs-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021145251-02-defusing-isis-bombs-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021145251-02-defusing-isis-bombs-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021145251-02-defusing-isis-bombs-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021145251-02-defusing-isis-bombs-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161021145251-02-defusing-isis-bombs-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/23/middleeast/mosul-offensive-isis-bombs/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Demolition underway of Calais 'Jungle' camp]]>
+					</title>
+					<description>A team of workers in France began the long-awaited demolition of the "Jungle" migrant camp on Tuesday, pulling down tents, shacks and other makeshift shelters that thousands have called home over the past two years.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/i3_jWuaDTyA" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/i3_jWuaDTyA/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/25/europe/calais-jungle-demolition-begins/index.html</guid>
+					<pubDate>Tue, 25 Oct 2016 17:09:12 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024145037-calais-migrants-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024145037-calais-migrants-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024145037-calais-migrants-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024145037-calais-migrants-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024145037-calais-migrants-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024145037-calais-migrants-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024145037-calais-migrants-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024145037-calais-migrants-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024145037-calais-migrants-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024145037-calais-migrants-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024145037-calais-migrants-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/25/europe/calais-jungle-demolition-begins/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Vatican: No scattering of cremated remains]]>
+					</title>
+					<description>The Vatican announced Tuesday that Catholics may be cremated but may not have their ashes scattered at sea or kept in urns at home.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/LXb3QSFbAPk" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/LXb3QSFbAPk/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/25/europe/cremation-vatican-scattering/index.html</guid>
+					<pubDate>Tue, 25 Oct 2016 18:23:06 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025150221-pope-francis-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025150221-pope-francis-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025150221-pope-francis-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025150221-pope-francis-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025150221-pope-francis-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025150221-pope-francis-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025150221-pope-francis-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025150221-pope-francis-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025150221-pope-francis-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025150221-pope-francis-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161025150221-pope-francis-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/25/europe/cremation-vatican-scattering/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[BA flight diverted after cabin crew became ill ]]>
+					</title>
+					<description>A British Airways flight from San Francisco to London was diverted to Vancouver Tuesday morning after members of the cabin crew became ill, the airline said.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/tVWIZkR5wkc" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/tVWIZkR5wkc/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/25/europe/british-airways-incident-uk-canada/index.html</guid>
+					<pubDate>Tue, 25 Oct 2016 16:14:43 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160906062526-british-airways-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160906062526-british-airways-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160906062526-british-airways-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160906062526-british-airways-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160906062526-british-airways-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160906062526-british-airways-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160906062526-british-airways-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160906062526-british-airways-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160906062526-british-airways-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160906062526-british-airways-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160906062526-british-airways-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/25/europe/british-airways-incident-uk-canada/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[How Asia's changing skylines inspire the world]]>
+					</title>
+					<description>When it comes to architectural innovation, some of the most significant changes to urban skylines over the past half-century have occurred in Asia.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/ptqv2L4yNQE" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/ptqv2L4yNQE/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/24/architecture/asia-changing-skylines/index.html</guid>
+					<pubDate>Tue, 25 Oct 2016 10:31:58 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024160728-before-after-cities-homepage-tease-2-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024160728-before-after-cities-homepage-tease-2-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024160728-before-after-cities-homepage-tease-2-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024160728-before-after-cities-homepage-tease-2-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024160728-before-after-cities-homepage-tease-2-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024160728-before-after-cities-homepage-tease-2-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024160728-before-after-cities-homepage-tease-2-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024160728-before-after-cities-homepage-tease-2-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024160728-before-after-cities-homepage-tease-2-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024160728-before-after-cities-homepage-tease-2-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024160728-before-after-cities-homepage-tease-2-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/24/architecture/asia-changing-skylines/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[At least 4 dead in Queensland theme park incident]]>
+					</title>
+					<description>Four adults have been killed after an incident at a theme park on Tuesday in Queensland, Australia, Queensland Police said in a statement.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/E0Z4rZ6Zkms" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/E0Z4rZ6Zkms/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/25/world/queensland-theme-park-fatalities/index.html</guid>
+					<pubDate>Wed, 26 Oct 2016 01:47:42 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/25/world/queensland-theme-park-fatalities/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[5 years later: Libyans recall the moment of Gadhafi's death]]>
+					</title>
+					<description>Five years on from the inglorious end to Gadhafi's life, ordinary Libyans reveal their memories of the moment they heard the dictator had died and share their hopes for the future of their homeland.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/-JcCpsZ-If0" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/-JcCpsZ-If0/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/25/africa/libya-gadhafi-five-years-on-memories/index.html</guid>
+					<pubDate>Tue, 25 Oct 2016 04:54:25 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023163140-libya-7-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023163140-libya-7-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023163140-libya-7-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023163140-libya-7-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023163140-libya-7-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023163140-libya-7-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023163140-libya-7-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023163140-libya-7-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023163140-libya-7-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023163140-libya-7-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023163140-libya-7-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/25/africa/libya-gadhafi-five-years-on-memories/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Intimate ballet portraits showcase the 'Art of Movement']]>
+					</title>
+					<description>Deborah Ory discovered dance photography when she could no longer be a dancer herself.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/JtDC1NOXo3U" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/JtDC1NOXo3U/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/25/health/art-of-movement-ballet-portraits/index.html</guid>
+					<pubDate>Tue, 25 Oct 2016 07:46:49 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024171342-10-art-of-movement-ballet-restricted-tease-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024171342-10-art-of-movement-ballet-restricted-tease-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024171342-10-art-of-movement-ballet-restricted-tease-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024171342-10-art-of-movement-ballet-restricted-tease-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024171342-10-art-of-movement-ballet-restricted-tease-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024171342-10-art-of-movement-ballet-restricted-tease-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024171342-10-art-of-movement-ballet-restricted-tease-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024171342-10-art-of-movement-ballet-restricted-tease-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024171342-10-art-of-movement-ballet-restricted-tease-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024171342-10-art-of-movement-ballet-restricted-tease-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024171342-10-art-of-movement-ballet-restricted-tease-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/25/health/art-of-movement-ballet-portraits/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[1st woman to climb Everest dies]]>
+					</title>
+					<description>Junko Tabei, the first woman to climb the world's highest peak, has died at age 77, according to Japanese media reports.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/GxS-gM2es3M" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/GxS-gM2es3M/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/23/asia/junko-tabei-dead-at-77/index.html</guid>
+					<pubDate>Mon, 24 Oct 2016 03:04:36 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023051755-junko-tabei-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023051755-junko-tabei-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023051755-junko-tabei-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023051755-junko-tabei-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023051755-junko-tabei-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023051755-junko-tabei-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023051755-junko-tabei-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023051755-junko-tabei-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023051755-junko-tabei-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023051755-junko-tabei-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023051755-junko-tabei-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/23/asia/junko-tabei-dead-at-77/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Guard killed; 174 inmates escape]]>
+					</title>
+					<description>A manhunt is underway after 174 inmates escaped from a prison in Haiti following a riot during which one guard was killed, authorities said.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/zdLOudsghVA" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/zdLOudsghVA/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/23/americas/haiti-prison-escape/index.html</guid>
+					<pubDate>Sun, 23 Oct 2016 04:31:40 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023000853-haiti-prison-escape-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023000853-haiti-prison-escape-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023000853-haiti-prison-escape-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023000853-haiti-prison-escape-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023000853-haiti-prison-escape-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023000853-haiti-prison-escape-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023000853-haiti-prison-escape-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023000853-haiti-prison-escape-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023000853-haiti-prison-escape-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023000853-haiti-prison-escape-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161023000853-haiti-prison-escape-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/23/americas/haiti-prison-escape/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Hostages held nearly 5 years freed]]>
+					</title>
+					<description>Somali pirates have released 26 hostages after nearly five years in captivity, according to an organization involved in mediation efforts.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/ijMsCnn7LC0" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/ijMsCnn7LC0/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/23/africa/somalia-pirates-release-hostages/index.html</guid>
+					<pubDate>Sun, 23 Oct 2016 17:41:48 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/110928035435-somalia-pirate-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/110928035435-somalia-pirate-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/110928035435-somalia-pirate-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/110928035435-somalia-pirate-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/110928035435-somalia-pirate-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/110928035435-somalia-pirate-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/110928035435-somalia-pirate-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/110928035435-somalia-pirate-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/110928035435-somalia-pirate-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/23/africa/somalia-pirates-release-hostages/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[One man's flight to freedom in a hay stack]]>
+					</title>
+					<description>Sunday marks the 60th anniversary of the ill-fated revolution, one man remembers escaping the violence that would leave 2,500 Hungarians dead and so many more displaced.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/IFToqNd2H7Q" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/IFToqNd2H7Q/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/23/europe/hungarian-revolution-escape/index.html</guid>
+					<pubDate>Sun, 23 Oct 2016 13:29:24 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161020145622-05-john-peter-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161020145622-05-john-peter-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161020145622-05-john-peter-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161020145622-05-john-peter-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161020145622-05-john-peter-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161020145622-05-john-peter-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161020145622-05-john-peter-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161020145622-05-john-peter-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161020145622-05-john-peter-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161020145622-05-john-peter-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161020145622-05-john-peter-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/23/europe/hungarian-revolution-escape/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Zombies walk Mexico City streets]]>
+					</title>
+					<description>Enthusiasts take part in a zombie walk in Mexico City.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/ky6MZNTnG2Y" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/ky6MZNTnG2Y/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/22/world/gallery/mexico-city-zombie-walk/index.html</guid>
+					<pubDate>Sun, 23 Oct 2016 01:44:08 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161022203840-07-mexico-city-zobie-walk-2016-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161022203840-07-mexico-city-zobie-walk-2016-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161022203840-07-mexico-city-zobie-walk-2016-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161022203840-07-mexico-city-zobie-walk-2016-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161022203840-07-mexico-city-zobie-walk-2016-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161022203840-07-mexico-city-zobie-walk-2016-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161022203840-07-mexico-city-zobie-walk-2016-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161022203840-07-mexico-city-zobie-walk-2016-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161022203840-07-mexico-city-zobie-walk-2016-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161022203840-07-mexico-city-zobie-walk-2016-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161022203840-07-mexico-city-zobie-walk-2016-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/22/world/gallery/mexico-city-zombie-walk/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Millions of IP addresses used in cyberattack]]>
+					</title>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/70erQPQ8AcI/index.html</link>
+					<guid isPermaLink="false">http://money.cnn.com/2016/10/22/technology/dyn-cyberattack/index.html</guid>
+					<pubDate>Sat, 22 Oct 2016 22:57:33 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/150325082152-social-gfx-cnn-logo-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<description>&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/70erQPQ8AcI" height="1" width="1" alt=""/&gt;</description>
+					<feedburner:origLink>http://money.cnn.com/2016/10/22/technology/dyn-cyberattack/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[CNN set to announce top 10 Heroes for 2016]]>
+					</title>
+					<description>CNN's Anderson Cooper will reveal which charitable champs will be among this year's Top 10 CNN Heroes on Wednesday during the 8 a.m. ET hour of "New Day."&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/-mj7vpYIbgo" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/-mj7vpYIbgo/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/20/us/cnn-heroes-top-10-2016-walkup/index.html</guid>
+					<pubDate>Thu, 20 Oct 2016 17:31:11 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160902125338-cnnheroes-top-10-loogo-plasma-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160902125338-cnnheroes-top-10-loogo-plasma-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160902125338-cnnheroes-top-10-loogo-plasma-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160902125338-cnnheroes-top-10-loogo-plasma-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160902125338-cnnheroes-top-10-loogo-plasma-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160902125338-cnnheroes-top-10-loogo-plasma-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160902125338-cnnheroes-top-10-loogo-plasma-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160902125338-cnnheroes-top-10-loogo-plasma-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160902125338-cnnheroes-top-10-loogo-plasma-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160902125338-cnnheroes-top-10-loogo-plasma-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160902125338-cnnheroes-top-10-loogo-plasma-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/20/us/cnn-heroes-top-10-2016-walkup/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Opium fuels stalemate in America's longest war]]>
+					</title>
+					<description>America's longest war received only a passing mention during the three debates between American presidential nominees Donald Trump and Hillary Clinton.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/ilMeZG0JluU" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/ilMeZG0JluU/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/25/opinions/opium-fuels-stalemate-in-afghanistan-war-bergen/index.html</guid>
+					<pubDate>Tue, 25 Oct 2016 12:04:57 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/141022103706-afghan-soldier-poppy-field-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/141022103706-afghan-soldier-poppy-field-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/141022103706-afghan-soldier-poppy-field-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/141022103706-afghan-soldier-poppy-field-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/141022103706-afghan-soldier-poppy-field-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/141022103706-afghan-soldier-poppy-field-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/141022103706-afghan-soldier-poppy-field-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/141022103706-afghan-soldier-poppy-field-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/141022103706-afghan-soldier-poppy-field-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/25/opinions/opium-fuels-stalemate-in-afghanistan-war-bergen/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Tom Hayden never lost passion for social justice]]>
+					</title>
+					<description>The death of Tom Hayden -- the iconic anti-war and civil rights activist, who was perhaps the most recognizable face of the New Left in the 1960s -- represents a great loss to all who believe in social justice.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/UccwCvuXWy0" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/UccwCvuXWy0/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/24/opinions/tom-hayden-never-lost-passion-joseph/index.html</guid>
+					<pubDate>Mon, 24 Oct 2016 20:02:32 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024085435-tom-hayden-file-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024085435-tom-hayden-file-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024085435-tom-hayden-file-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024085435-tom-hayden-file-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024085435-tom-hayden-file-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024085435-tom-hayden-file-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024085435-tom-hayden-file-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024085435-tom-hayden-file-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024085435-tom-hayden-file-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024085435-tom-hayden-file-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024085435-tom-hayden-file-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/24/opinions/tom-hayden-never-lost-passion-joseph/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Russian hack is just a warning sign]]>
+					</title>
+					<description>The Russian hack is a warning sign of things to come, writes Amy Zegart. The US had better be prepared&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/0Y3-5J6aSxg" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/0Y3-5J6aSxg/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/23/opinions/elections-hacks-russia-warning-zegart/index.html</guid>
+					<pubDate>Mon, 24 Oct 2016 16:18:38 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161004163454-putin-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161004163454-putin-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161004163454-putin-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161004163454-putin-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161004163454-putin-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161004163454-putin-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161004163454-putin-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161004163454-putin-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161004163454-putin-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161004163454-putin-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161004163454-putin-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/23/opinions/elections-hacks-russia-warning-zegart/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Obamacare premiums to soar 22%]]>
+					</title>
+					<description>Obamacare premiums are set to skyrocket an average of 22% for the benchmark silver plan in 2017, according to a government report released Monday.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/2jqM9nMYuqc" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/2jqM9nMYuqc/index.html</link>
+					<guid isPermaLink="false">http://money.cnn.com/2016/10/24/news/economy/obamacare-premiums/index.html</guid>
+					<pubDate>Tue, 25 Oct 2016 11:58:11 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160819123205-obama-obamacare-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160819123205-obama-obamacare-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160819123205-obama-obamacare-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160819123205-obama-obamacare-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160819123205-obama-obamacare-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160819123205-obama-obamacare-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160819123205-obama-obamacare-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160819123205-obama-obamacare-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160819123205-obama-obamacare-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160819123205-obama-obamacare-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160819123205-obama-obamacare-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://money.cnn.com/2016/10/24/news/economy/obamacare-premiums/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Brexit Britain: Microsoft hikes prices by 22%]]>
+					</title>
+					<description>Microsoft products are about to get a whole lot more expensive for U.K. buyers.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/76MhOkP0xGY" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/76MhOkP0xGY/index.html</link>
+					<guid isPermaLink="false">http://money.cnn.com/2016/10/24/technology/microsoft-prices-brexit-uk/index.html</guid>
+					<pubDate>Mon, 24 Oct 2016 15:37:33 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160706111749-cnnmoney-brexit-pound-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160706111749-cnnmoney-brexit-pound-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160706111749-cnnmoney-brexit-pound-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160706111749-cnnmoney-brexit-pound-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160706111749-cnnmoney-brexit-pound-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160706111749-cnnmoney-brexit-pound-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160706111749-cnnmoney-brexit-pound-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160706111749-cnnmoney-brexit-pound-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160706111749-cnnmoney-brexit-pound-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160706111749-cnnmoney-brexit-pound-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160706111749-cnnmoney-brexit-pound-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://money.cnn.com/2016/10/24/technology/microsoft-prices-brexit-uk/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[EU-Canada trade deal on life support]]>
+					</title>
+					<description>Last-minute negotiations to salvage the European Union's signature free trade agreement have been dealt a major blow by a rogue regional government in Belgium.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/mLiufe4-AGw" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/mLiufe4-AGw/index.html</link>
+					<guid isPermaLink="false">http://money.cnn.com/2016/10/24/news/economy/canada-eu-trade-deal-belgium/index.html</guid>
+					<pubDate>Mon, 24 Oct 2016 14:07:49 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024104515-money-tease-canada-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024104515-money-tease-canada-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024104515-money-tease-canada-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024104515-money-tease-canada-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024104515-money-tease-canada-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024104515-money-tease-canada-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024104515-money-tease-canada-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024104515-money-tease-canada-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024104515-money-tease-canada-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024104515-money-tease-canada-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161024104515-money-tease-canada-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://money.cnn.com/2016/10/24/news/economy/canada-eu-trade-deal-belgium/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[A new perspective of our planet]]>
+					</title>
+					<description>On Christmas Eve in 1968, Apollo 8 made the first manned mission to the moon. Live broadcasting from the spacecraft was the three-man crew of Frank Borman, Jim Lovell and William Anders, and it was on that day that their journey led them to an unexpected sight.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/Nn9J505iT_g" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/Nn9J505iT_g/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/16/travel/cnnphotos-overview-a-new-perspective-of-earth/index.html</guid>
+					<pubDate>Sun, 16 Oct 2016 23:30:03 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161016192712-01-cnnphotos-overview-tease-restricted-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161016192712-01-cnnphotos-overview-tease-restricted-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161016192712-01-cnnphotos-overview-tease-restricted-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161016192712-01-cnnphotos-overview-tease-restricted-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161016192712-01-cnnphotos-overview-tease-restricted-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161016192712-01-cnnphotos-overview-tease-restricted-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161016192712-01-cnnphotos-overview-tease-restricted-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161016192712-01-cnnphotos-overview-tease-restricted-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161016192712-01-cnnphotos-overview-tease-restricted-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161016192712-01-cnnphotos-overview-tease-restricted-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161016192712-01-cnnphotos-overview-tease-restricted-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/16/travel/cnnphotos-overview-a-new-perspective-of-earth/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Galaxy count just increased 10x]]>
+					</title>
+					<description>Turns out we were wrong; there aren't  200 billion galaxies in the universe.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/1hSv70DRVak" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/1hSv70DRVak/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/13/health/hubble-telescope-galaxies-trnd/index.html</guid>
+					<pubDate>Thu, 13 Oct 2016 21:48:24 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160908135637-01-fossilised-star-cluster-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160908135637-01-fossilised-star-cluster-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160908135637-01-fossilised-star-cluster-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160908135637-01-fossilised-star-cluster-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160908135637-01-fossilised-star-cluster-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160908135637-01-fossilised-star-cluster-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160908135637-01-fossilised-star-cluster-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160908135637-01-fossilised-star-cluster-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160908135637-01-fossilised-star-cluster-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160908135637-01-fossilised-star-cluster-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/160908135637-01-fossilised-star-cluster-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/13/health/hubble-telescope-galaxies-trnd/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[Study: Mars mission astronauts could experience brain damage]]>
+					</title>
+					<description>Astronauts on a mission to Mars will be expected to rely on their memory, multitasking and decision-making skills to handle the first manned expedition beyond the moon. But the harmful radiation from galactic cosmic rays throughout their journey could cause them to experience cognitive impairment in these key areas, as well as increased depression and anxiety, according to a new study.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/5RHl4KBZ3L8" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/5RHl4KBZ3L8/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/13/health/mars-mission-astronaut-brain-damage/index.html</guid>
+					<pubDate>Thu, 13 Oct 2016 18:21:16 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011171021-mars-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011171021-mars-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011171021-mars-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011171021-mars-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011171021-mars-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011171021-mars-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011171021-mars-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011171021-mars-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011171021-mars-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011171021-mars-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011171021-mars-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/13/health/mars-mission-astronaut-brain-damage/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[New Mars probe searches for life]]>
+					</title>
+					<description>A new phase in the continuing search for life on Mars begins this month -- adding to a fleet of spacecraft probing the Red Planet.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/gusa-DLPWB8" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/gusa-DLPWB8/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/12/health/mars-mission-esa-fleet-exomars/index.html</guid>
+					<pubDate>Wed, 12 Oct 2016 10:24:26 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011153731-artists-impression-visualising-the-exomars-2016-trace-gas-orbiter-tgo-with-its-thrusters-firing-beginning-its-entry-into-mars-orbit-on-19-october-2016-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011153731-artists-impression-visualising-the-exomars-2016-trace-gas-orbiter-tgo-with-its-thrusters-firing-beginning-its-entry-into-mars-orbit-on-19-october-2016-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011153731-artists-impression-visualising-the-exomars-2016-trace-gas-orbiter-tgo-with-its-thrusters-firing-beginning-its-entry-into-mars-orbit-on-19-october-2016-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011153731-artists-impression-visualising-the-exomars-2016-trace-gas-orbiter-tgo-with-its-thrusters-firing-beginning-its-entry-into-mars-orbit-on-19-october-2016-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011153731-artists-impression-visualising-the-exomars-2016-trace-gas-orbiter-tgo-with-its-thrusters-firing-beginning-its-entry-into-mars-orbit-on-19-october-2016-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011153731-artists-impression-visualising-the-exomars-2016-trace-gas-orbiter-tgo-with-its-thrusters-firing-beginning-its-entry-into-mars-orbit-on-19-october-2016-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011153731-artists-impression-visualising-the-exomars-2016-trace-gas-orbiter-tgo-with-its-thrusters-firing-beginning-its-entry-into-mars-orbit-on-19-october-2016-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011153731-artists-impression-visualising-the-exomars-2016-trace-gas-orbiter-tgo-with-its-thrusters-firing-beginning-its-entry-into-mars-orbit-on-19-october-2016-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011153731-artists-impression-visualising-the-exomars-2016-trace-gas-orbiter-tgo-with-its-thrusters-firing-beginning-its-entry-into-mars-orbit-on-19-october-2016-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011153731-artists-impression-visualising-the-exomars-2016-trace-gas-orbiter-tgo-with-its-thrusters-firing-beginning-its-entry-into-mars-orbit-on-19-october-2016-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/161011153731-artists-impression-visualising-the-exomars-2016-trace-gas-orbiter-tgo-with-its-thrusters-firing-beginning-its-entry-into-mars-orbit-on-19-october-2016-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/12/health/mars-mission-esa-fleet-exomars/index.html</feedburner:origLink>
+				</item>
+				<item>
+					<title>
+						<![CDATA[What it would take to explore deep space]]>
+					</title>
+					<description>Imagine something so distant that with our current technology it would take 2,400 generations to reach there -- and that's just our nearest star.&lt;img src="http://feeds.feedburner.com/~r/rss/edition_world/~4/1rsUusldIyk" height="1" width="1" alt=""/&gt;</description>
+					<link>http://rss.cnn.com/~r/rss/edition_world/~3/1rsUusldIyk/index.html</link>
+					<guid isPermaLink="false">http://www.cnn.com/2016/10/11/health/interstellar-travel-space-physics/index.html</guid>
+					<pubDate>Tue, 11 Oct 2016 20:00:01 GMT</pubDate>
+					<media:group>
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/140611183527-01-warp-speed-spaceship-super-169.jpg" height="619" width="1100" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/140611183527-01-warp-speed-spaceship-large-11.jpg" height="300" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/140611183527-01-warp-speed-spaceship-vertical-large-gallery.jpg" height="552" width="414" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/140611183527-01-warp-speed-spaceship-video-synd-2.jpg" height="480" width="640" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/140611183527-01-warp-speed-spaceship-live-video.jpg" height="324" width="576" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/140611183527-01-warp-speed-spaceship-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/140611183527-01-warp-speed-spaceship-vertical-gallery.jpg" height="360" width="270" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/140611183527-01-warp-speed-spaceship-story-body.jpg" height="169" width="300" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/140611183527-01-warp-speed-spaceship-t1-main.jpg" height="250" width="250" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/140611183527-01-warp-speed-spaceship-assign.jpg" height="186" width="248" />
+						<media:content medium="image" url="http://i2.cdn.turner.com/cnnnext/dam/assets/140611183527-01-warp-speed-spaceship-hp-video.jpg" height="144" width="256" />
+					</media:group>
+					<feedburner:origLink>http://www.cnn.com/2016/10/11/health/interstellar-travel-space-physics/index.html</feedburner:origLink>
+				</item>
+			</channel>
+		</rss>
