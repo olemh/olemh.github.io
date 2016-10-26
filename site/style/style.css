@@ -52,17 +52,32 @@ margin:1%;
 float:left;
 }
 section article {
+    margin-bottom:1rem;
 	margin-left:1%;
     margin-right:1%;
 	position:static;
 	width: 31%;
-	min-height: 25em;
+	min-height: 40em;
 	outline: 2px solid black;
 	float:left;
+    background-color:lightgrey;
 }	
+section article * {
+    padding:0.5rem;
+}
+/*legg på mellomrom etter hver tredje artikkel */
+section article:nth-of-type(3n +1) {
+    clear:both;
+}
 
 .bilde {
-	max-width:  100%;
+    padding:0;
+	max-width:100%;
+    max-height:20em;
+    /*sentrer bilder*/
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
 }
 /*Boks til høyre på nettstedet*/
 aside {
